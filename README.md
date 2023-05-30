@@ -1,4 +1,4 @@
-# Loja de Ferramentas - Thiago Baptista da Silva Soares
+# Loja de Ferramentas - Thiago Baptista
 
 ![Projeto Loja de Ferramentas](src/assets/banner-readme.png)
 
@@ -22,4 +22,4 @@ Neste projeto, cada aluno da sala de aula recebeu um tema específico para desen
 
 ![ezgif com-gif-maker](https://github.com/thiagobapsoares/AC-INW-2TRI/assets/84245122/2077f334-91d0-4646-a6f9-3b7c81eb7784)
 
-#### Este é um projeto escolar desenvolvido por Thiago Baptista da Silva Soares. Sinta-se à vontade para personalizar e aprimorar este projeto, adicionando diferentes recursos ou modificando o design para atender às suas necessidades. 💜
+#### Este é um projeto escolar desenvolvido por Thiago Baptista. Sinta-se à vontade para personalizar e aprimorar este projeto, adicionando diferentes recursos ou modificando o design para atender às suas necessidades. 💜
